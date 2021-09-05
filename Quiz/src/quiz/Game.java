@@ -45,7 +45,23 @@ public class Game extends javax.swing.JFrame {
         jButton3.setEnabled(false);
         
         
-       
+        q[0][0] = "Which is used to find and fix bugs in the Java programs.?";
+        q[0][1] = "JVM";
+        q[0][2] = "JDB";
+        q[0][3] = "JDK";
+        q[0][4] = "JRE";
+
+        q[1][0] = "What is the return type of the hashCode() method in the Object class?";
+        q[1][1] = "int";
+        q[1][2] = "Object";
+        q[1][3] = "long";
+        q[1][4] = "void";
+
+        q[2][0] = "Which package contains the Random class?";
+        q[2][1] = "java.util package";
+        q[2][2] = "java.lang package";
+        q[2][3] = "java.awt package";
+        q[2][4] = "java.io package";
 
         q[3][0] = "An interface with no fields or methods is known as?";
         q[3][1] = "Runnable Interface";
